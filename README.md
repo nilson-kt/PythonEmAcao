@@ -1,7 +1,7 @@
 # PythonEmAcao
 
 ## 🎯 Objetivo
-Oferecer um espaço dedicado para a prática e o aprendizado da linguagem de programação Python, alinhado com o meu desejo de me aprimorar constantemente. Ele visa proporcionar uma variedade de exercícios, juntamente com soluções, para ajudar estudantes e programadores a desenvolver suas habilidades, expandir seus conhecimentos e construir um portfólio sólido de projetos. Além disso, o repositório busca criar uma comunidade ativa de aprendizado, onde os participantes podem trocar feedback, compartilhar ideias e colaborar para enriquecer o conteúdo e as abordagens de resolução dos exercícios.
+Oferecer um espaço dedicado à prática da linguagem Python por meio da disponibilização de uma variedade de exercícios, juntamente com soluções, a fim de ajudar estudantes e programadores a desenvolverem suas habilidades.
 
 ## 💡 Como Navegar:
 Os diretórios principais deste repositório são nomeados de acordo com as fontes das quais os exercícios foram obtidos. Dentro de cada diretório, você encontrará uma coleção de pastas organizadas por tipos de exercício. Dentro dessas pastas, estarão os exercícios individuais, e o nome de cada pasta corresponde ao nome do exercício correspondente.
