@@ -21,4 +21,10 @@ Digite o nome de uma cidade:            Santo Inácio
 Verdade
 ~~~
 
+4:
+~~~
+Digite o nome de uma cidade: asanto
+Falso
+~~~
+
 <p>Vídeo com a resolução do exercício: <a href="https://www.youtube.com/watch?v=QroT8cZMRnc&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=35" target="_blank">Exercício Python #024 - Verificando as primeiras letras de um texto</a></p>
