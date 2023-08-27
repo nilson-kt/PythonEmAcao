@@ -11,6 +11,7 @@ Para pagar uma casa de R$120000.00, a prestação será de R$1000.00
 Empréstimo negado!
 ~~~
 2-
+~~~
 Digite o valor da casa: R$100000
 Digite seu salário: R$10000
 Em quantos anos o senhor vai pagar?: 4
