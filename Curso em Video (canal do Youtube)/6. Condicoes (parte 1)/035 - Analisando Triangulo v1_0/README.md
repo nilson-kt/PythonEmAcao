@@ -1,6 +1,7 @@
 Desenvolva um programa que leia o comprimento de trêes retas e diga ao usuário se elas podem ou não formar um triângulo.
 
 Exemplos de Output:
+
 1-
 ~~~
 Digite o valor da primeira reta: 9
