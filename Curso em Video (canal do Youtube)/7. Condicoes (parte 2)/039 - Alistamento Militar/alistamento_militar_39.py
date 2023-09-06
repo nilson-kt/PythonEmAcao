@@ -7,7 +7,7 @@ de alistamento.
 
 from datetime import date
 from math import fabs
-ano_nascimento = int(input('Digite o ano do seu nascimento: '))
+ano_nascimento = int(input('\033[1:31mDigite o ano do seu nascimento: \033[m'))
 data_atual = int(str(date.today()).split('-', maxsplit=1)[0])
 idade = data_atual - ano_nascimento
 
